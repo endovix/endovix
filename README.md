@@ -12,7 +12,7 @@ Lᴇᴛ’s ʙᴜɪʟᴅ ᴀ ʙᴏᴛ sᴍᴀʀᴛᴇʀ ᴛʜᴀɴ ᴜs—ᴀɴ�
 #### ✍ Wʜᴀᴛ ɪ ᴄᴀɴ ᴅᴏ:
 
 ⛓️ **Blockchain & Protocol engineering**  
-Prediction markets (Polymarket, Kalshi) · DeFi · DEX / AMM design · CEX & market structure · Web3 · gaming · smart contracts (Solidity, Vyper, Rust for Solana / Substrate) · EVM internals (gas, opcodes, proxies, upgrade patterns) · mempool & block-building · MEV awareness · cross-chain (bridges, messaging, relayers) · rollups & L2 (Optimistic / ZK concepts, sequencers) · oracles · indexers (The Graph–style pipelines, RPC-driven sync) · wallets & account abstraction · Ethers.js · Viem · Web3.js · JSON-RPC / provider architecture · on-chain / off-chain sync · event-driven on-chain indexing · Ordinals / Bitcoin L2 (where applicable) · Solana · AI-agent orchestration for on-chain workflows
+Prediction markets· DeFi · DEX / AMM design · CEX · Web3 gaming · Smart contracts · EVM internals · Mempool · MEV awareness · Cross-chain · Rollups & L2 · Oracles · Indexers · Account abstraction · On-chain / Off-chain sync
 
 ⚒️ **Frontend**  
 React · Next.js · Angular · Vue · TypeScript · JavaScript · Tailwind CSS · Redux · Zustand · WebSocket / real-time UIs
