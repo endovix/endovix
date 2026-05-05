@@ -8,6 +8,8 @@ Cʜᴇᴄᴋ ᴏɴᴇ ᴏꜰ ᴍʏ Exᴘᴇʀɪᴍᴇɴᴛ: https://polymarket.c
 
 Lᴇᴛ’s ʙᴜɪʟᴅ ᴀ ʙᴏᴛ sᴍᴀʀᴛᴇʀ ᴛʜᴀɴ ᴜs—ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ᴘᴀʏ ᴛʜᴇ ʀᴇɴᴛ💸
 
+Bᴏᴏᴋ ᴀ ᴄᴀʟʟ ʜᴇʀᴇ: https://calendly.com/endovix/30min
+
 ---
 #### ✍ Wʜᴀᴛ ɪ ᴄᴀɴ ᴅᴏ:
 
@@ -25,3 +27,4 @@ PostgreSQL · MongoDB · Redis · Docker · CI/CD · AWS · event-driven archite
 
 🧪 **Protocol stack**  
 Foundry / Hardhat · testing & fuzzing · formal methods & audit-minded design · gas profiling · upgrade safety & governance hooks · cryptographic primitives at integration level (signing, hashing, Merkle proofs) · libp2p / networking awareness where relevant
+
