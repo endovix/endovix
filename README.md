@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="banner.png" alt="Endovix" width="1300" />
+</p>
+
 #### ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
 
 Protocol-level blockchain engineer building decentralized systems, high-performance backends, and usable products onchain and off.
