@@ -9,7 +9,7 @@ Protocol-level blockchain engineer building decentralized systems, high-performa
 
 **Nᴏᴡ:** ʙᴜɪʟᴅɪɴɢ ᴘʀᴇᴅɪᴄᴛɪᴏɴ ᴍᴀʀᴋᴇᴛ ᴛʀᴀᴅɪɴɢ ᴛᴏᴏʟs ᴏɴ [Pᴏʟʏᴍᴀʀᴋᴇᴛ](ʜᴛᴛᴘs://ᴘᴏʟʏᴍᴀʀᴋᴇᴛ.ᴄᴏᴍ) ᴀɴᴅ [Kᴀʟsʜɪ](ʜᴛᴛᴘs://ᴋᴀʟsʜɪ.ᴄᴏᴍ).
 
-Cʜᴇᴄᴋ ᴏɴᴇ ᴏꜰ ᴍʏ Exᴘᴇʀɪᴍᴇɴᴛ: https://polymarket.com/@positionx
+Cʜᴇᴄᴋ ᴏɴᴇ ᴏꜰ ᴍʏ Exᴘᴇʀɪᴍᴇɴᴛ: https://polymarket.com/@uninformedfloww
 
 Lᴇᴛ’s ʙᴜɪʟᴅ ᴀ ʙᴏᴛ sᴍᴀʀᴛᴇʀ ᴛʜᴀɴ ᴜs—ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ᴘᴀʏ ᴛʜᴇ ʀᴇɴᴛ💸
 
